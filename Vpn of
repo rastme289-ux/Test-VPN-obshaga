@@ -5,6 +5,7 @@
 #profile-web-page-url: https://t.me/unifirr
 #Date/Time: 2026-04-26 / 14:00 (Moscow)
 #Количество: 100
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1790951622
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&headerType=none#Пингуйте сервера 🔄️, приятного использавания.
 vless://5339468e-67dc-43d4-a09f-04d2353113d4@109.69.218.167:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894&sni=lerua.xyz#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B%2ACIDR%5D
